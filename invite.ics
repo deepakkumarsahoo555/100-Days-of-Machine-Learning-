@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+METHOD:REQUEST
+VERSION:2.0
+BEGIN:VEVENT
+ORGANIZER;CN=naukri campus;CHARSET=UTF-8:mailto:statusnc@rmsg.naukri.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=deepakkumarsahoo61447@gmail.com;X-NUM-GUESTS=0:mailto:deepakkumarsahoo61447@gmail.com
+LOCATION:https://www.naukri.com/campus/contests/brandquezt-sharp-21-brands-behind-the-scenes-contest-event-32503
+DESCRIPTION;LANGUAGE=en-US:Brandquezt # 21 Brands Behind the Scenes - naukri campus event
+SUMMARY;LANGUAGE=en-US:Brandquezt # 21 Brands Behind the Scenes
+DTSTART;TZID=Asia/Kolkata:20250622T190000
+DTEND;TZID=Asia/Kolkata:20250622T193000
+STATUS:CONFIRMED
+UID:test-32503
+DTSTAMP:20250603T093548
+BEGIN:VALARM
+TRIGGER:-PT1H
+DESCRIPTION:Reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR
