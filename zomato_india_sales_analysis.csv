@@ -1,0 +1,11 @@
+State,City,Food Category,Total Orders,Revenue (INR Cr)
+Delhi,New Delhi,North Indian,250000,12.5
+Maharashtra,Mumbai,Desserts,220000,10.8
+Karnataka,Bangalore,South Indian,180000,9.2
+Tamil Nadu,Chennai,Biryani,160000,8.4
+West Bengal,Kolkata,Chinese,150000,7.6
+Delhi,New Delhi,Fast Food,120000,6.0
+Maharashtra,Mumbai,Biryani,110000,5.5
+Karnataka,Bangalore,Chinese,90000,4.2
+Tamil Nadu,Chennai,Desserts,80000,3.9
+West Bengal,Kolkata,North Indian,70000,3.5
